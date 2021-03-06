@@ -1,0 +1,2 @@
+# SQL_PRACTICE
+SQL 연습
